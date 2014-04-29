@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<webservicecep>
+    <resultado>1</resultado>
+    <resultado_txt>sucesso - cep completo</resultado_txt>
+    <uf>SP</uf>
+    <cidade>Franco da Rocha</cidade>
+    <bairro>Vila Carmela de Tulio</bairro>
+    <tipo_logradouro>Rua</tipo_logradouro>
+    <logradouro>Pirassununga</logradouro>
+</webservicecep>

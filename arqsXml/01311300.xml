@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<webservicecep>
+    <resultado>1</resultado>
+    <resultado_txt>sucesso - cep completo</resultado_txt>
+    <uf>SP</uf>
+    <cidade>São Paulo</cidade>
+    <bairro>Bela Vista</bairro>
+    <tipo_logradouro>Avenida</tipo_logradouro>
+    <logradouro>Paulista</logradouro>
+</webservicecep>
